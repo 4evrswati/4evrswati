@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Swati</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2b5d39e6cee1e0bbb1315d2ffc758aa65dfb9001df597d452cd8f7df1b2ddb8a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4evrswati&label=Profile%20views&color=0e75b6&style=flat" alt="4evrswati" /> </p>
 
 - 🌱 I’m currently learning **NextJS**
 
+- 💬 Ask me about **WEB, MERN**
+
 - 📫 How to reach me **29.swatikumari@gmail.com**
+
+- ⚡ Fun fact **I can type at 100 words per minute, but only if the code is compiling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
