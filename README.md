@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **29.swatikumari@gmail.com**
 
-- ⚡ Fun fact **I can type at 100 words per minute, but only if the code is compiling.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swati-kumari-9b0a65225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati-kumari-9b0a65225/" height="30" width="40" /></a>
